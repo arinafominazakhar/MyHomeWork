@@ -1,0 +1,15 @@
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/bin/Debug/net6.0/seminar1
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/bin/Debug/net6.0/seminar1.deps.json
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/bin/Debug/net6.0/seminar1.runtimeconfig.json
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/bin/Debug/net6.0/seminar1.dll
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/bin/Debug/net6.0/seminar1.pdb
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.csproj.AssemblyReference.cache
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.AssemblyInfoInputs.cache
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.AssemblyInfo.cs
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.csproj.CoreCompileInputs.cache
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.dll
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/refint/seminar1.dll
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.pdb
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/seminar1.genruntimeconfig.cache
+/Users/arinafomina/Desktop/MyHomeWork/seminar1/obj/Debug/net6.0/ref/seminar1.dll
